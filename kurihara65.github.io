@@ -1,5 +1,5 @@
 <html>
    <body>
-    fist github web page.
+    first github web page.
   </body>
 <html>
